@@ -10,5 +10,17 @@ def solution(phone_book):
                 if (shorter == longer[:len(shorter)]):
                     return False
     return True
-    
+
 '''
+
+# 재시도해서 O(n)으로 품
+
+def solution(phone_book):
+    phone_book.sort()
+    for i in range(0,len(phone_book)-1):
+        left = phone_book[i]
+        right = phone_book[i+1]
+        if (len(left)<len(right)):
+            if (left == right[:len(left)]):
+                return False                
+    return True

@@ -13,5 +13,7 @@
 
 ### 2주차 사전과제
 #### 문제
+- [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 

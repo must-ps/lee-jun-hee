@@ -10,3 +10,8 @@
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
+### 2주차 사전과제
+#### 문제
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+

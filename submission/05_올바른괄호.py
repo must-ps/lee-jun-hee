@@ -17,6 +17,7 @@ def solution(s):
     return (open_num==0)
 
 # 다시 고쳐서 통과된 풀이
+# comment : 그런데 너무 엣지케이스를 여럿 고려해야하는 것 같은데 ㅠㅠ 이게 최선일까..?
 
 def solution(s):
     

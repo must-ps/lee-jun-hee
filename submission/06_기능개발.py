@@ -7,7 +7,6 @@ def solution(progresses, speeds):
     required_days = []
     for i in range(len(progresses)):
         required_days.append(math.ceil((100-progresses[i])/speeds[i])) # 올림처리
-    print(required_days)
     
     tmp_biggest = required_days[0]
     release_amount = 0

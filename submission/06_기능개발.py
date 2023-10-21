@@ -27,4 +27,30 @@ def solution(progresses, speeds):
 
 
 
-# 재시도 ... --------------------------------------------------------------------------------------
+# 아주 약간의 리팩토링(?) --------------------------------------------------------------------------------------
+
+import math
+
+def solution(progresses, speeds):
+    answer = []
+    required_days = []
+    for i in range(len(progresses)):
+        required_days.append(math.ceil((100-progresses[i])/speeds[i])) # 올림처리
+    
+    tmp_biggest = required_days[0]
+    release_amount = 0
+    for i in range(len(required_days)):
+        if required_days[i] <= tmp_biggest:
+            release_amount+=1
+        else:
+            answer.append(release_amount)
+            release_amount = 1
+            tmp_biggest = required_days[i]
+            
+        # edge case - 마지막 원소의 경우
+        if i==(len(required_days)-1):
+                answer.append(release_amount)
+          
+    return answer
+
+    

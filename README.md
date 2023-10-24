@@ -17,3 +17,10 @@
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
+### 3주차 사전과제
+#### 문제
+- [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+#### 자료
+- [힙 자료구조](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)

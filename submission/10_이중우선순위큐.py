@@ -32,8 +32,6 @@ def solution(operations):
     max_heap = []
     min_heap = []
     
-    #trash = set()
-    
     for o in operations:
         if o[0]=="I":
             num = int(o[2:])

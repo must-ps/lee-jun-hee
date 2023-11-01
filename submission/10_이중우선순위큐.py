@@ -11,10 +11,10 @@ def solution(operations):
             hq.heappush(min_heap,num)
             hq.heappush(max_heap,-num)
         elif o[2]=="1":
-            if len(min_heap)>0:
+            if len(max_heap)>0:
                 hq.heappop(max_heap)
         else:
-            if len(max_heap)>0:
+            if len(min_heap)>0:
                 hq.heappop(min_heap)
     
     if len(max_heap)==len(min_heap):

@@ -24,3 +24,12 @@
 - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 #### 자료
 - [힙 자료구조](https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html)
+
+### 4주차 사전과제
+#### 문제
+- [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+#### 자료
+- [BFS 예시코드 및 설명](https://github.com/must-ps/lee-jun-hee/blob/main/resources/BFS.md)
+

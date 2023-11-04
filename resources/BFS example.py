@@ -38,7 +38,5 @@ while(nodes):
     for adj in adjs[now]:
         if visited[adj]:
             continue
-        # adj는 now와 인접한 node. 
-        # 그러므로 now와 start_node 사이 거리인
-        # dist보다 1만큼 더 멀기 때문에 dist+1 을 넣어준다.
+        # adj는 now와 인접한 node. 그러므로 now와 start_node 사이 거리인 dist보다 1만큼 더 멀기 때문에 dist+1 을 넣어준다.
         nodes.append((adj, dist+1))

@@ -33,3 +33,10 @@
 #### 자료
 - [BFS 예시코드 및 설명](https://github.com/must-ps/lee-jun-hee/blob/main/resources/BFS.md)
 
+### 5주차 사전과제
+#### 문제
+- [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+- [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)
+- [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+
+
